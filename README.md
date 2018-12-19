@@ -1,3 +1,3 @@
 # todo-Ionic
 
-REST server for Todo App (Capstone project)
+REST server for Todo App (Coursera Capstone project)
